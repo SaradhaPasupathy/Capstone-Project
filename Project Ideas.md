@@ -27,3 +27,12 @@ How to help consumers meet the recommendations of the Dietary Guidelines and man
 #### Data
 https://catalog.data.gov/dataset/mypyramid-food-raw-data-f9ed6  
 https://www.ers.usda.gov/data-products/food-consumption-and-nutrient-intakes.aspx  
+
+### Idea 3 - Average Daily Traffic Counts - Chicago city 2006
+Average Daily Traffic (ADT) counts are analogous to a census count of vehicles on city streets. These counts provide a close approximation to the actual number of vehicles passing through a given location on an average weekday. ADT counts are used by city planners, transportation engineers, real-estate developers, marketers and many others for myriad planning and operational purposes. 
+
+#### Questions
+Which direction has large number of vehicle volume at a given date?
+
+#### Data
+https://catalog.data.gov/dataset/average-daily-traffic-counts-3968f
