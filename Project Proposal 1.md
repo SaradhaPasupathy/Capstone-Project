@@ -15,30 +15,30 @@ The data and references(to name a few , more to come later) can be obtained from
 
 https://catalog.data.gov/dataset?publisher=data.ct.gov&organization=state-of-connecticut
 
-The following are the csv files from the above data link for the years 2011, 2012, 2013, 2014
-Real estate sales by Town 
-Crime data 
-Conveyance tax data
-Fire Department incidents data
+The following are the csv files from the above data link for the years 2011, 2012, 2013, 2014.  
+1. Real estate sales by Town  
+2. Crime data  
+3. Conveyance tax data  
+4. Fire Department incidents data  
 
 ### About the data  
 The Office of Policy and Management maintains a listing of all real estate sales with a sales price of $2,000 or greater that occur between October 1 and September 30 of each year. The file has name of town, property address, date of sale, property type (residential, apartment, commercial, industrial or vacant land), sales price, and property assessment.  
 
 ##### 1. Real_Estate_Sales_By_Town_for_2011__2012__2013__2014 (2).csv  
-For each sale record, the file includes: 
+For each sale record, the file includes:  
 Name - Name of the town  
-SerialNbr -
-ListYear -Year 
+SerialNbr -  
+ListYear -Year  
 Date Recorded - Observation recorded date  
-AssessedValue - Market value
-SalePrice - Actual Sale Price
-AdditionalRemarks --
-SaleRatio - AssessedValue/SalePrice
-NonUseCode - 
-ResidentialType - Type of the residential (values in some of the rows include : vacant, residential, commercial,industrial, Apartments,condo family,single family, two family)
-ResidentialUnits - No. of units
-Address - Property Address
-Location - Geolocation (Latitude and longitude information)
+AssessedValue - Market value  
+SalePrice - Actual Sale Price  
+AdditionalRemarks --  
+SaleRatio - AssessedValue/SalePrice  
+NonUseCode -   
+ResidentialType - Type of the residential (values in some of the rows include : vacant, residential, commercial,industrial, Apartments,condo family,single family, two family.Some observations have values 0,1,2,3).  
+ResidentialUnits - No. of units  
+Address - Property Address  
+Location - Geolocation (Latitude and longitude information)  
 
 ### Approach
 
