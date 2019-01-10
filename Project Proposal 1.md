@@ -40,6 +40,8 @@ ResidentialUnits - No. of units
 Address - Property Address  
 Location - Geolocation (Latitude and longitude information)  
 
+#### Note: The description for the columns SerialNbr, AdditionalRemarks, NonUseCode, ResidentialType, Residentialunits are not clear in the data site. Have requested the dataset owner for additional information.
+
 ### Approach
 
 1.	Extract the data 
