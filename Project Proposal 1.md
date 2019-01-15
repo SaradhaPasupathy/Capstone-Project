@@ -1,13 +1,17 @@
 #### Project Name
 Real Estate Sales  - State of Connecticut
 
-#### Description
+### What is the problem you want to solve?
 
-The real estate market in the United States has rebounded significantly from the housing crash of the late-2000s, with low interest rates and limited inventory creating an ideal environment for sellers in some parts of the country. Buyers, on the other hand, often face escalating real estate prices, bidding wars and prolonged search periods as they enter an increasingly competitive market.  
+Predict the real estate prices for the year 2014 by examining the connecticut real estate prices data for the years 2011,2012,2013.
 
-However Economically, Connecticut has been one of the slowest states in the nation to recover from the economic shock of the 2008 recession. President and CEO of Connecticut REALTORS Michael Barbaro says that Connecticut’s housing market is “defying the laws of economics,” in an interview. “We have low inventory and flat prices. Normally, with low inventory we should have high prices.” he said,
+#### Who is the Client and why do you care about the problem?
 
-In this Capstone project, The connecticut real estate prices for the year 2011,2012,2013,2014 will be examined, study the factors influencing it and  predict the real estate prices for the future. 
+The real estate market in the United States has rebounded significantly from the housing crash of the late-2000s, with low interest rates and limited inventory creating an ideal environment for sellers in some parts of the country. Buyers, on the other hand, often face escalating real estate prices, bidding wars and prolonged search periods as they enter an increasingly competitive market. However Economically, Connecticut has been one of the slowest states in the nation to recover from the economic shock of the 2008 recession.  
+
+From the article below, I would like to highlight the following :
+President and CEO of Connecticut REALTORS Michael Barbaro says that Connecticut’s housing market is “defying the laws of economics,” in an interview. “We have low inventory and flat prices. Normally, with low inventory we should have high prices.” he said.
+http://www.yankeeinstitute.org/2018/04/connecticut-home-value-growth-slowest-in-the-nation-struggles-under-shadow-of-2008-recession/
 
 #### Data
 
@@ -15,7 +19,7 @@ The data and references(to name a few , more to come later) can be obtained from
 
 https://catalog.data.gov/dataset?publisher=data.ct.gov&organization=state-of-connecticut
 
-The following are the csv files from the above data link for the years 2011, 2012, 2013, 2014.  
+The following are the csv files from the above data link for the years 2011, 2012, 2013.  
 1. Real estate sales by Town  
 2. Crime data  
 3. Conveyance tax data  
@@ -45,9 +49,12 @@ Location - Geolocation (Latitude and longitude information)
 ### Approach
 
 1.	Extract the data 
-2. The Crime data, conveyance tax data, Fire department incidents data for the years 2011 - 2014 will to be combined and used for predicting the real estate prices.
+2. The Crime data, conveyance tax data, Fire department incidents data for the years 2011 - 2013 will to be combined and used for predicting the real estate prices for the year 2014.
 3.	Check for missing values and clean the data.
 4.	Create visualizations and models to show and predict the real estate prices
 5.	Provide conclusions and insights and their level of importance
 
+### Deliverables
 
+Python Code
+Powerpoint Presentation
